@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "f64eb024-bab9-43fa-89ee-c9c3ca9517df": {
+      "ProjectGuid": "f64eb024-bab9-43fa-89ee-c9c3ca9517df",
+      "DisplayName": "DeviceManagerCore",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "9fdbe711-ad7c-44af-bde3-b09a45d6b7cf": {
+      "ProjectGuid": "9fdbe711-ad7c-44af-bde3-b09a45d6b7cf",
+      "DisplayName": "DeviceManageClient",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
