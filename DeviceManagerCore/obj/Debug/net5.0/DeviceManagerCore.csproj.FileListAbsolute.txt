@@ -78,4 +78,3 @@ C:\Users\lamso\source\repos\DeviceManagerCore\DeviceManagerCore\obj\Debug\net5.0
 C:\Users\lamso\source\repos\DeviceManagerCore\DeviceManagerCore\obj\Debug\net5.0\DeviceManagerCore.genruntimeconfig.cache
 C:\Users\lamso\source\repos\DeviceManagerCore\DeviceManagerCore\bin\Debug\net5.0\System.Net.WebSockets.WebSocketProtocol.dll
 C:\Users\lamso\source\repos\DeviceManagerCore\DeviceManagerCore\obj\Debug\net5.0\staticwebassets\DeviceManagerCore.StaticWebAssets.xml
-C:\Users\lamso\source\repos\DeviceManagerCore\DeviceManagerCore\obj\Debug\net5.0\DeviceManagerCore.csproj.AssemblyReference.cache
