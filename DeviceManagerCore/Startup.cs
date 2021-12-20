@@ -53,7 +53,7 @@ namespace DeviceManagerCore
                options.AddPolicy("HubPolicy", policy =>
                {
                    policy.
-                   WithOrigins("http://localhost:3000")
+                   WithOrigins("http://192.168.127.102:3000")
             .AllowAnyHeader()
             .WithMethods("GET", "POST")
             .AllowCredentials();
